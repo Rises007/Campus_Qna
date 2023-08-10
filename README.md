@@ -27,9 +27,6 @@ To run the Campus Qna application locally, follow these steps:
 
 Contributions are welcome! If you find any issues or would like to enhance the application, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
